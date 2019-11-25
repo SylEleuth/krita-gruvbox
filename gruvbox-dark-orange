@@ -140,8 +140,8 @@ ForegroundPositive=104,157,106
 ForegroundVisited=124,111,100
 
 [General]
-ColorScheme=Krita gruvbox solarized
-Name=Gruvbox
+ColorScheme=Krita gruvbox dark orange
+Name=Gruvbox Dark Orange
 shadeSortColumn=true
 
 [KDE]
