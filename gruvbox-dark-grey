@@ -20,7 +20,7 @@ IntensityEffect=0
 
 [Colors:Button]
 BackgroundAlternate=124,111,100
-BackgroundNormal=80,73,69
+BackgroundNormal=60,56,54
 DecorationFocus=131,165,152
 DecorationHover=131,165,152
 ForegroundActive=131,165,152
@@ -33,18 +33,18 @@ ForegroundPositive=184,187,38
 ForegroundVisited=124,111,100
 
 [Colors:Complementary]
-BackgroundAlternate=59,59,59
-BackgroundNormal=49,49,49
-DecorationFocus=30,146,255
-DecorationHover=61,174,230
+BackgroundAlternate=60,56,54
+BackgroundNormal=40,40,40
+DecorationFocus=69,133,136
+DecorationHover=104,157,106
 ForegroundActive=254,128,25
 ForegroundInactive=179,179,179
-ForegroundLink=61,174,230
+ForegroundLink=104,157,106
 ForegroundNegative=237,21,21
 ForegroundNeutral=201,206,59
 ForegroundNormal=235,219,178
 ForegroundPositive=17,209,22
-ForegroundVisited=61,174,230
+ForegroundVisited=104,157,106
 
 [Colors:Selection]
 BackgroundAlternate=80,73,69
@@ -103,8 +103,8 @@ ForegroundPositive=104,157,106
 ForegroundVisited=124,111,100
 
 [General]
-ColorScheme=Krita gruvbox dark grey brighter
-Name=Gruvbox Dark Grey Brighter
+ColorScheme=Krita gruvbox dark grey
+Name=Gruvbox Dark Grey
 shadeSortColumn=true
 
 [KDE]
