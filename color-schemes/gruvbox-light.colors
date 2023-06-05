@@ -1,0 +1,29 @@
+[ColorEffects:Inactive]
+ChangeSelectionColor = true
+
+
+[Colors:Button]
+BackgroundNormal     = 235,219,178
+ForegroundNormal     = 40,40,40
+
+
+[Colors:Selection]
+BackgroundNormal     = 214,93,14
+ForegroundNormal     = 235,219,178
+
+
+[Colors:View]
+BackgroundAlternate  = 213,196,161
+BackgroundNormal     = 235,219,178
+ForegroundLink       = 7,102,120
+ForegroundNormal     = 40,40,40
+
+
+[Colors:Window]
+BackgroundNormal     = 235,219,178
+ForegroundNormal     = 40,40,40
+
+
+[General]
+Name                 = Gruvbox Light
+
